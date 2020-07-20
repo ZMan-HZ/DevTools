@@ -14,9 +14,9 @@
             <id>github</id>
             <repositories>
                 <repository>
-                    <id>ZMan-HZ</id>
-                    <name>JavaTests</name>
-                    <url>https://github.com/ZMan-HZ/JavaTests</url>
+                    <id></id>
+                    <name></name>
+                    <url></url>
                     <releases>
                         <enabled>true</enabled>
                     </releases>
